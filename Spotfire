@@ -1,0 +1,20 @@
+ Connect Table Funtion using Spotfire
+ 
+ To understand the table function  Check below link
+ 
+ URL: https://blogs.oracle.com/oraclemagazine/when-is-a-function-like-a-table-when-its-a-table-function
+ 
+Our main concern, issue while we will face while connecting Table function.
+
+Since notable object we might not be able to locate the table (Table function is actually an imaginary table for us to understand)
+
+Steps we may need to follow
+1. Find the total number of columns which needed to be captured.
+2. Create same number of columns from the same database (Spotfire can rename and change the data type)
+3. Modify the SQL  and point to the table function. 
+4. Last and final step executes and see if you are able to open the open the table function without any issue. 
+I hope this can help someone. Incase if you face any issue I request you to connect with me. Good Luck 
+ 
+
+ 
+ 
